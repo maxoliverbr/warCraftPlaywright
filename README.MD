@@ -1,4 +1,4 @@
-# warCraftSelenium
+# warCraftPlaywright
 
 ### Using Playwright with Python to navigate WarCraft website. 
 
